@@ -33,8 +33,8 @@ h1 {
 	display: block;
 	text-align: center;
 	padding:25px 15px 25px 15px;
-
-	font-size: 45px;
+	font-family: "Amatic SC", Arial;
+	font-size: 30px;
 }
 
 .w-c {
@@ -50,7 +50,7 @@ h1 {
 	display: block;
 	text-align: center;
 	padding:25px 15px 25px 15px;
-	font-family: "Amatic SC", Arial,
+	font-family: 'Oxygen', Arial;
 }
 
 a:link{
@@ -59,7 +59,7 @@ a:link{
 }
 
 a:hover{
-	color: black;
+	color: grey;
 	text-decoration: none;
 }
 
@@ -73,3 +73,8 @@ a:visited{
 	text-decoration: none;
 }
 
+.wrphotos-img{
+	height: 300px;
+	width: auto;
+	margin-left: 370px;
+}
