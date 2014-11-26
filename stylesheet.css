@@ -80,5 +80,30 @@ a:visited{
 }
 
 .resume-titles{
+	font-size: 25px;
+	font-family: 'Oxygen', Arial;
+}
+
+.resume-school-p{
+	font-family: 'Oxygen', Arial;
+}
+
+.reume-extracurriculars-p{
+	font-family: 'Oxygen', Arial;
+}
+
+.reume-volunteering-p{
+	font-family: 'Oxygen', Arial;
+}
+
+.reume-experiences-p{
+	font-family: 'Oxygen', Arial;
+}
+
+.reume-internships-p{
+	font-family: 'Oxygen', Arial;
+}
+
+.reume-work-p{
 	font-family: 'Oxygen', Arial;
 }
