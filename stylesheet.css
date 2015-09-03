@@ -107,3 +107,22 @@ a:visited{
 .reume-work-p{
 	font-family: 'Oxygen', Arial;
 }
+
+.adventures-p-h {
+	color: black;
+	margin: auto;
+	display: block;
+	text-align: center;
+	padding:25px 15px 25px 15px;
+	font-family: 'Oxygen', Arial;
+	font-size: 50px;
+}
+
+.adventures-p {
+	color: black;
+	margin: auto;
+	display: block;
+	text-align: center;
+	padding:25px 15px 25px 15px;
+	font-family: 'Oxygen', Arial;
+}
