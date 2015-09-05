@@ -1,5 +1,5 @@
 body {
-	background: url(images/green_cup1.png) repeat;
+	background: url(images/congruent_outline.png) repeat;
 }
 
 header {
@@ -10,21 +10,24 @@ header {
 
 nav ul {
 	list-style: none;
+	margin-left: -px;
+	margin-top: -5px;
 }
 
 nav ul li {
 	display: inline;
-	margin: 15px;
+	margin: 10px;
 	text-align: center;
-	font-family: "Amatic SC", Arial;
-	font-size: 25px;
+	font-family: "Oxygen", Arial;
+	font-size: 20px;
 }
 
 h1 {
 	color: black;
-	font-family: "Amatic SC", Arial;
+	font-family: "Oxygen", Arial;
 	margin-left: 15px;
 	margin-top: 5px;
+	font-size: 70px;
 }
 
 .main-page-p {
@@ -135,4 +138,77 @@ a:visited{
 	text-align: center;
 	padding:25px 15px 25px 15px;
 	font-family: 'Oxygen', Arial;
+}
+
+.sunset-vespers1 {
+	margin: auto;
+	margin-top: 5px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.sunset-vespers2 {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.sand1 {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.sand2 {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.pikes {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.oxbel {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.shadow-shot {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.columbia-summit {
+	margin: auto;
+	margin-top: 20px;
+	display: block;
+	width: 900px;
+	height: auto;
+}
+
+.columbia-wheel {
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	display: block;
+	width: 900px;
+	height: auto;
 }
