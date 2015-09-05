@@ -1,5 +1,5 @@
 body {
-	background: url(images/congruent_outline.png) repeat;
+	background: url(images/tweed.png) repeat;
 }
 
 header {
@@ -36,7 +36,7 @@ h1 {
 	display: block;
 	text-align: center;
 	padding:25px 15px 25px 15px;
-	font-family: "Amatic SC", Arial;
+	font-family: "Oxygen", Arial;
 	font-size: 30px;
 }
 
@@ -119,6 +119,8 @@ a:visited{
 	padding:25px 15px 25px 15px;
 	font-family: 'Oxygen', Arial;
 	font-size: 50px;
+	text-decoration: underline;
+
 }
 
 .photography-p-s-h {
@@ -212,3 +214,23 @@ a:visited{
 	width: 900px;
 	height: auto;
 }
+
+.art-p-h {
+	color: black;
+	margin: auto;
+	display: block;
+	text-align: center;
+	padding:25px 15px 25px 15px;
+	font-family: 'Oxygen', Arial;
+	font-size: 50px;
+	text-decoration: underline;
+}
+
+.art-p-s-h {
+	color: black;
+	margin: auto;
+	display: block;
+	text-align: center;
+	padding:25px 15px 25px 15px;
+	font-family: 'Oxygen', Arial;
+	font-size: 40px;
