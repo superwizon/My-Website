@@ -9,7 +9,7 @@ body {
       color: #111;
   }
   .container {
-      padding: 80px 120px;
+      padding: 7% 5%;
   }
   .person {
       border: 10px solid transparent;
@@ -114,7 +114,7 @@ body {
       background-color: #555 !important;
   }
   .dropdown-menu li a {
-      color: #000 !important;
+      color: #848484 !important;
   }
   .dropdown-menu li a:hover {
       background-color: red !important;
