@@ -200,10 +200,13 @@ body {
 }
 
 .homepp{
-  font-size: 20px;
+  font-size: 18px;
 }
 
-
+.w-pic-h{
+  margin-top: -5%;
+  margin-bottom: -3%;
+}
 
 
 
